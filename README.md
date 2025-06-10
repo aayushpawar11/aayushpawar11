@@ -21,9 +21,9 @@ _B.S. in Industrial Engineering_ (May 2027)
   A command-line tool that uses AI to break down videos — detects objects, transcribes speech, and summarizes the content. Built with PyTorch, Whisper, HuggingFace Transformers, and some late-night debugging.  
   → _Making AI pipelines practical, modular, and reusable._
 
-- **Clinic4U**:  
-  iOS app helping families in need find nearby free clinics. Used Google APIs + Apple Maps, now expanding to Android and adding smart search with AI.  
-  → _Over 200 users & 50+ successful clinic matches._
+- **StatPulseAI**:  
+  A full-stack sports stats prediction platform that forecasts whether an NBA, NFL, or MLB player will go over or under a custom stat threshold using real-time data. Built with PyTorch, Kafka, and Kubernetes. Models are trained on live and historical stats (via balldontlie + ESPN scraping), and predictions are served through a FastAPI backend and a modern React frontend.
+  → _End-to-end AI pipeline for real-time player stat forecasting — fully modular, scalable, and production-ready._
 
 ---
 
