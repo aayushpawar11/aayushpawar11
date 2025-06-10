@@ -23,6 +23,7 @@ _B.S. in Industrial Engineering_ (May 2027)
 
 - **StatPulseAI**:  
   A full-stack sports stats prediction platform that forecasts whether an NBA, NFL, or MLB player will go over or under a custom stat threshold using real-time data. Built with PyTorch, Kafka, and Kubernetes. Models are trained on live and historical stats (via balldontlie + ESPN scraping), and predictions are served through a FastAPI backend and a modern React frontend.
+  
   → _End-to-end AI pipeline for real-time player stat forecasting — fully modular, scalable, and production-ready._
 
 ---
