@@ -8,9 +8,9 @@ Aspiring AI + Software Engineer | Passionate about building intelligent systems 
 
 ## 🎓Education
 **Georgia Institute of Technology**  
-_B.S. in Industrial Engineering_ (May 2027)  
-**Concentration**: Data Science and Analytics  
-**Minor**: Artificial Intelligence and Machine Learning  
+_B.S. in Computer Science_ (May 2027)  
+**Concentration**: Intelligence & People  
+**Minor**: Fintech  
 **Relevant Coursework**: DSA, OOP, Software Design, Digital Systems, AI Ethics, Data Manipulation
 
 ---
