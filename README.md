@@ -7,8 +7,8 @@ Aspiring AI + Software Engineer | Passionate about building intelligent systems 
 
 ## 🎓 Education
 **Georgia Institute of Technology**  
-_B.S. in Computer Science_ - Concentration: Intelligence & People (Expected December 2027)  
-_M.S. in Computer Science_ — Specialization: Machine Learning (Expected December 2028)
+_B.S. in Computer Science_ - Concentration: Intelligence & People
+_M.S. in Computer Science_ — Specialization: Machine Learning 
 
 **Relevant Coursework**: Machine Learning, Introduction to AI, Design and Analysis of Algorithms, DSA, OOP, Software Design, Digital Systems, AI Ethics, Data Manipulation
 
